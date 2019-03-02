@@ -1,8 +1,10 @@
 # Countries_tradePartners_AVL-Tree
 C# AVL Tree using windows forms
-
+Recieved a First for this project
 --University Description--
-<b>MANCHESTER METROPOLITAN UNIVERSITY</b><br/>
+
+
+<br><b>MANCHESTER METROPOLITAN UNIVERSITY</b><br/>
 <b>Division of Computer Science and Information Systems</b><br/><br/>
 This assignment is based on a simplified version of a real world  problem. It is not uncommon to be asked to produce applications similar to this in industry, normally as a pilot study. It is not uncommon for files to differ slightly from the provided specification making error trapping important, however that isn’t the case with this file.<br/><br/>
 <b>International Trading Data</b><br/><br/>
@@ -24,11 +26,9 @@ You must implement an application with a GUI (may be multiple forms) which allow
 b) Partial keyword search by country name, as letters are entered any countries starting with those letters are shown and can be selected from.<br/>
 7.Search for and display ALL countries who trade with a particular country<br/>
 8.Display the country which has the biggest potential for trade.A country’s potential for trade can be found by summing the GDP growth attribute’s for all its trading partners<br/><br/>
-Credit will be given for<br/>
+Contains:<br/>
 •OO design - Complete and Working Classes<br/>
 •Working Implementation<br/>
 •Usability of the GUI<br/>
 •Efficiency of your search algorithms<br/>
-•Tested code – you can include a file of tests (Blackbox testing)<br/>
-•Validation<br/>
 •Refactored code<br/>
