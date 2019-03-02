@@ -1,0 +1,75 @@
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+c:\users\ivanp_000\documents\visual studio 2013\Projects\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+C:\Users\ivanp_000\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+E:\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+E:\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+E:\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+E:\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+C:\Users\Mun\Documents\GitHub\Assigment\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+D:\Downloads\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+D:\Downloads\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+D:\Downloads\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+D:\Downloads\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+H:\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+H:\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+H:\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csprojResolveAssemblyReference.cache
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+H:\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.Cache
+H:\New folder\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+H:\New folder\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+H:\New folder\C#ASSONLINE\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csprojAssemblyReference.cache
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddCountry.resources
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.AddTradingPartner.resources
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Form1.resources
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.cache
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.CoreCompileInputs.cache
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+H:\New folder\C#ASSONLINE\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
