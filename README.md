@@ -2,7 +2,7 @@
 C# AVL Tree using windows forms
 
 --University Description--
-TROPOLITAN UNIVERSITY</b><br/>
+<b>MANCHESTER METROPOLITAN UNIVERSITY</b><br/>
 <b>Division of Computer Science and Information Systems</b><br/><br/>
 This assignment is based on a simplified version of a real world  problem. It is not uncommon to be asked to produce applications similar to this in industry, normally as a pilot study. It is not uncommon for files to differ slightly from the provided specification making error trapping important, however that isn’t the case with this file.<br/><br/>
 <b>International Trading Data</b><br/><br/>
